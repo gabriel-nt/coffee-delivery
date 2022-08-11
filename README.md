@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/gabriel-nt/ignite-timer/blob/master/src/assets/logo-ignite.svg" alt="Timer" />
+  <img src="https://github.com/gabriel-nt/coffee-delivery/blob/master/src/assets/logo.svg" alt="Coffee delivery" />
 </p>
 
 <h1 align="center">
