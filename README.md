@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/gabriel-nt/coffee-delivery/blob/master/src/assets/logo.svg" alt="Coffee delivery" />
+  <img src="https://github.com/gabriel-nt/coffee-delivery/blob/master/src/assets/logo.svg" alt="Coffee delivery" width="130"/>
 </p>
 
 <h1 align="center">
@@ -32,7 +32,7 @@
 - [x] Listar pedidos
 
 ### 💻 Demonstração
-<img src="https://github.com/gabriel-nt/ignite-timer/blob/master/src/assets/cover.png" alt="Imagem de demonstração" />
+<img src="https://github.com/gabriel-nt/coffee-delivery/blob/master/src/assets/cover.png" alt="Imagem de demonstração" />
 
 ### ⚙ Pré-requisitos
 
