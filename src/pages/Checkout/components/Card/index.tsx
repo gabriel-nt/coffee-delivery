@@ -2,11 +2,15 @@ import { useCallback } from 'react';
 import { Trash } from 'phosphor-react';
 
 import { formatPrice } from '../../../../utils/format';
-import { CardProps } from '../../../Home/components/Card';
+import { Coffee } from '../../../../reducers/cart/reducer';
 import { useCartContext } from '../../../../contexts/CartContext';
 import { QuantityInput } from '../../../../components/QuantityInput';
 
 import { CardContainer, CardContent, CardHeader, CardFooter } from './styles';
+
+interface CardProps {
+  coffee: Coffee;
+}
 
 export function Card({ coffee }: CardProps) {
   const { removeProductFromCart, updateProductQuantity } = useCartContext();

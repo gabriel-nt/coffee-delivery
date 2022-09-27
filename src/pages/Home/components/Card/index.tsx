@@ -14,7 +14,7 @@ import {
 } from './styles';
 
 export interface CardProps {
-  coffee: Coffee;
+  coffee: Omit<Coffee, 'quantity' | 'totalPrice'>;
 }
 
 export function Card({ coffee }: CardProps) {
